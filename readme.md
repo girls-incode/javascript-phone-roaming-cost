@@ -44,4 +44,5 @@ All calls to 250104991 costs 720 cents for 367 seconds (5min 67sec)
 Total cost: 3360
 ```
 Phone numbers 300860010 and 250104991 have the longest duration of 367 seconds. 
+
 As 250104991 < 300860010 then the Final cost: 3360 - 720 = 2640
